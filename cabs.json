@@ -1,0 +1,7 @@
+[
+  {"driver": "Ramesh", "seats": 4, "city": "Delhi",  "slot": "Morning"},
+  {"driver": "Suresh", "seats": 3, "city": "Delhi",  "slot": "Morning"},
+  {"driver": "Mahesh", "seats": 4, "city": "Jaipur", "slot": "Evening"},
+  {"driver": "Dinesh", "seats": 2, "city": "Delhi",  "slot": "Night"},
+  {"driver": "Rakesh", "seats": 4, "city": "Jaipur", "slot": "Morning"}
+]
